@@ -20,7 +20,7 @@ I'm a self taught Front-End Developer, Senior Software Engineer at [**@Zenduty**
 
 ## ⚡️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,vite,nextjs,gatsby,html,css,md,tailwind,git,github,vscode,figma,sentry,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,vite,nextjs,html,css,md,tailwind,git,github,vscode,figma,sentry,go)](https://skillicons.dev)
 
 </div>
 
