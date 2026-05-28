@@ -41,19 +41,26 @@ const mohit = {
 
 ### `~/metrics`
 
+<p>
+  <img src="https://img.shields.io/github/followers/moh-hit?style=for-the-badge&color=88c0d0&labelColor=2e3440&logo=github&logoColor=eceff4&label=followers" alt="followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/moh-hit&query=%24.public_repos&style=for-the-badge&color=81a1c1&labelColor=2e3440&logo=github&logoColor=eceff4&label=repos" alt="repos" />
+  <img src="https://komarev.com/ghpvc/?username=moh-hit&style=for-the-badge&color=5e81ac&labelColor=2e3440&label=visitors" alt="visitors" />
+</p>
+
 <a href="https://github.com/moh-hit">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=moh-hit&show_icons=true&hide_border=true&theme=nord&count_private=true&include_all_commits=true" alt="github stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=moh-hit&theme=nord&hide_border=true" alt="streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=moh-hit&theme=nord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Reviews,Issues" alt="trophies" />
 </a>
 
 <a href="https://github.com/moh-hit">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moh-hit&layout=compact&hide_border=true&theme=nord&langs_count=10" alt="top languages" />
+  <img height="190" src="https://streak-stats.demolab.com?user=moh-hit&theme=nord&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
 </a>
 
 ### `~/activity`
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=moh-hit&theme=nord&hide_border=true&area=true&custom_title=contribution+graph" alt="activity graph" />
+<a href="https://github.com/moh-hit">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moh-hit&theme=nord&hide_border=true&area=true&custom_title=contribution+graph" alt="activity graph" />
+</a>
 
 ---
 
-<sub><em>"software is frozen thought — keep it lukewarm."</em>&nbsp;·&nbsp;<img src="https://komarev.com/ghpvc/?username=moh-hit&style=flat-square&color=88c0d0&label=visitors" alt="visitors" /></sub>
+<sub><em>"software is frozen thought — keep it lukewarm."</em></sub>
