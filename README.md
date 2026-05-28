@@ -42,17 +42,14 @@ const mohit = {
 ### `~/metrics`
 
 <p>
-  <img src="https://img.shields.io/github/followers/moh-hit?style=for-the-badge&color=88c0d0&labelColor=2e3440&logo=github&logoColor=eceff4&label=followers" alt="followers" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/moh-hit&query=%24.public_repos&style=for-the-badge&color=81a1c1&labelColor=2e3440&logo=github&logoColor=eceff4&label=repos" alt="repos" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmoh-hit&query=%24.followers&style=for-the-badge&color=8fbcbb&labelColor=2e3440&logo=github&logoColor=eceff4&label=followers" alt="followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmoh-hit&query=%24.public_repos&style=for-the-badge&color=88c0d0&labelColor=2e3440&logo=github&logoColor=eceff4&label=repos" alt="repos" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmoh-hit&query=%24.public_gists&style=for-the-badge&color=81a1c1&labelColor=2e3440&logo=github&logoColor=eceff4&label=gists" alt="gists" />
   <img src="https://komarev.com/ghpvc/?username=moh-hit&style=for-the-badge&color=5e81ac&labelColor=2e3440&label=visitors" alt="visitors" />
 </p>
 
 <a href="https://github.com/moh-hit">
-  <img src="https://github-profile-trophy.vercel.app/?username=moh-hit&theme=nord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Reviews,Issues" alt="trophies" />
-</a>
-
-<a href="https://github.com/moh-hit">
-  <img height="190" src="https://streak-stats.demolab.com?user=moh-hit&theme=nord&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
+  <img height="195" src="https://streak-stats.demolab.com?user=moh-hit&theme=nord&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
 </a>
 
 ### `~/activity`
