@@ -1,9 +1,9 @@
-<a href="https://skyhit.app"><img align="right" height="28" src="https://img.shields.io/badge/portfolio-skyhit.app-88c0d0?style=flat-square&labelColor=2e3440" alt="portfolio" /></a>
-<a href="https://skyhit.app/blog"><img align="right" height="28" src="https://img.shields.io/badge/blog-↗-81a1c1?style=flat-square&labelColor=2e3440" alt="blog" /></a>
+<a href="https://skyhit.app"><img align="right" height="28" src="https://img.shields.io/badge/portfolio-skyhit.app-FE428E?style=flat-square&labelColor=2B213A" alt="portfolio" /></a>
+<a href="https://skyhit.app/blog"><img align="right" height="28" src="https://img.shields.io/badge/blog-↗-36F9F6?style=flat-square&labelColor=2B213A" alt="blog" /></a>
 
 <br /><br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1200&color=88C0D0&width=620&lines=hey%2C+i'm+mohit+%F0%9F%91%8B;front-end+engineer+%40+zenduty;self-taught.+web-obsessed." alt="intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=FE428E&width=680&lines=hey%2C+i'm+mohit+%F0%9F%91%8B;staff+engineer+%40+xurrent;frontend+by+heart%2C+backend+by+curiosity." alt="intro" />
 
 ---
 
@@ -11,11 +11,12 @@
 
 ```ts
 const mohit = {
-  role:       "Senior Software Engineer",
-  company:    "@Zenduty",
-  discipline: "Front-End · Product Engineering",
-  stack:      ["TypeScript", "React", "Next.js", "Go"],
-  origin:     "self-taught, shipping since the JS-fatigue era",
+  role:       "Staff Software Engineer",
+  company:    "@Xurrent",
+  discipline: ["Front-End", "Mobile", "increasingly Backend"],
+  stack:      ["TS", "React", "Next.js", "React Native", "Expo", "Django", "Go"],
+  loves:      "beautiful design · polished UX · pixel discipline",
+  exploring:  "the backend rabbit hole — APIs, services, systems",
   portfolio:  "skyhit.app",
 } as const;
 ```
@@ -23,15 +24,26 @@ const mohit = {
 ### `~/now`
 
 ```diff
-+ building     incident-response UI & internal tooling @ Zenduty
-+ exploring    RSC, view transitions, edge runtimes
++ shipping     web + mobile product across the Xurrent stack
++ growing      from frontend-first → full-stack staff engineer
+~ exploring    Django, Go services, system design
+~ designing    interfaces that feel good to touch and look at
 ~ writing      short essays → skyhit.app/blog
-! open to      open-source collabs in DX / dev tooling
 ```
 
 ### `~/stack`
 
-[![stack](https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwind,go,html,css,figma,git,vscode,sentry)](https://skillicons.dev)
+<p><strong>frontend & mobile</strong></p>
+
+[![frontend](https://skillicons.dev/icons?i=ts,react,nextjs,reactnative,expo,tailwind,figma)](https://skillicons.dev)
+
+<p><strong>backend</strong></p>
+
+[![backend](https://skillicons.dev/icons?i=python,django,go)](https://skillicons.dev)
+
+<p><strong>tooling</strong></p>
+
+[![tooling](https://skillicons.dev/icons?i=git,github,vscode,sentry,vercel)](https://skillicons.dev)
 
 ### `~/projects`
 
@@ -42,20 +54,20 @@ const mohit = {
 ### `~/metrics`
 
 <p>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmoh-hit&query=%24.followers&style=for-the-badge&color=8fbcbb&labelColor=2e3440&logo=github&logoColor=eceff4&label=followers" alt="followers" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmoh-hit&query=%24.public_repos&style=for-the-badge&color=88c0d0&labelColor=2e3440&logo=github&logoColor=eceff4&label=repos" alt="repos" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmoh-hit&query=%24.public_gists&style=for-the-badge&color=81a1c1&labelColor=2e3440&logo=github&logoColor=eceff4&label=gists" alt="gists" />
-  <img src="https://komarev.com/ghpvc/?username=moh-hit&style=for-the-badge&color=5e81ac&labelColor=2e3440&label=visitors" alt="visitors" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmoh-hit&query=%24.followers&style=for-the-badge&color=FE428E&labelColor=2B213A&logo=github&logoColor=ffffff&label=followers" alt="followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmoh-hit&query=%24.public_repos&style=for-the-badge&color=C66BFF&labelColor=2B213A&logo=github&logoColor=ffffff&label=repos" alt="repos" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmoh-hit&query=%24.public_gists&style=for-the-badge&color=36F9F6&labelColor=2B213A&logo=github&logoColor=ffffff&label=gists" alt="gists" />
+  <img src="https://komarev.com/ghpvc/?username=moh-hit&style=for-the-badge&color=FEDB39&labelColor=2B213A&label=visitors" alt="visitors" />
 </p>
 
 <a href="https://github.com/moh-hit">
-  <img height="195" src="https://streak-stats.demolab.com?user=moh-hit&theme=nord&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
+  <img height="195" src="https://streak-stats.demolab.com?user=moh-hit&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
 </a>
 
 ### `~/activity`
 
 <a href="https://github.com/moh-hit">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moh-hit&theme=nord&hide_border=true&area=true&custom_title=contribution+graph" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moh-hit&theme=redical&hide_border=true&area=true&custom_title=contribution+graph" alt="activity graph" />
 </a>
 
 ---
