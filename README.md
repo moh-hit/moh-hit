@@ -1,51 +1,55 @@
-<div align="right">
+<a href="https://skyhit.vercel.app"><img align="right" height="28" src="https://img.shields.io/badge/portfolio-skyhit.vercel.app-cba6f7?style=flat-square&labelColor=1e1e2e" alt="portfolio" /></a>
+<a href="https://skyhit.vercel.app/blog"><img align="right" height="28" src="https://img.shields.io/badge/blog-↗-89b4fa?style=flat-square&labelColor=1e1e2e" alt="blog" /></a>
 
-[Portfolio](https://skyhit.vercel.app) | [Blog](https://skyhit.vercel.app/blog)
+<br /><br />
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1200&color=CBA6F7&width=620&lines=hey%2C+i'm+mohit+%F0%9F%91%8B;front-end+engineer+%40+zenduty;self-taught.+web-obsessed." alt="intro" />
 
-# 👋 Hi there 
+---
 
-My Name is [**Mohit Kumar**](https://skyhit.vercel.app)
-  
-I'm a self taught Front-End Developer, Senior Software Engineer at [**@Zenduty**](https://github.com/moh-hit).
+### `~/whoami`
 
-## 🚧 Projects
+```ts
+const mohit = {
+  role:       "Senior Software Engineer",
+  company:    "@Zenduty",
+  discipline: "Front-End · Product Engineering",
+  stack:      ["TypeScript", "React", "Next.js", "Go"],
+  origin:     "self-taught, shipping since the JS-fatigue era",
+  portfolio:  "skyhit.vercel.app",
+} as const;
+```
 
-- [👀 Portfolio Site](https://skyhit.vercel.app) - Personal Portfolio Site
+### `~/now`
 
-...explore my [other repos](https://github.com/moh-hit?tab=repositories) for more projects.
+```diff
++ building     incident-response UI & internal tooling @ Zenduty
++ exploring    RSC, view transitions, edge runtimes
+~ writing      short essays → skyhit.vercel.app/blog
+! open to      open-source collabs in DX / dev tooling
+```
 
-<div align="center">
+### `~/stack`
 
-## ⚡️ Skills
+[![stack](https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwind,go,html,css,figma,git,vscode,sentry)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,vite,nextjs,html,css,md,tailwind,git,github,vscode,figma,sentry,go)](https://skillicons.dev)
+### `~/projects`
 
-</div>
+- **[portfolio](https://skyhit.vercel.app)** &nbsp;—&nbsp; personal site & writing playground
+- **[blog](https://skyhit.vercel.app/blog)** &nbsp;—&nbsp; short essays on the web, DX, and shipping
+- _...more at [`@moh-hit/repositories`](https://github.com/moh-hit?tab=repositories)_
 
-<div align="center">
+### `~/metrics`
 
-## 🔖 Stats
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=moh-hit&show_icons=true&hide_border=true&theme=catppuccin_mocha&count_private=true&include_all_commits=true&card_width=440" alt="github stats" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=moh-hit&theme=catppuccin_mocha&hide_border=true" alt="streak" />
 
-[![](https://komarev.com/ghpvc/?username=moh-hit&style=flat-square&color=C691E9)](https://github.com/antonkomarev/github-profile-views-counter)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moh-hit&layout=compact&hide_border=true&theme=catppuccin_mocha&langs_count=10&card_width=900" alt="top languages" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=moh-hit&theme=material-palenight&hide_border=true)](https://git.io/streak-stats)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moh-hit&show_icons=true&hide_border=true&theme=material-palenight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?&username=moh-hit&layout=compact&hide_border=true&langs_count=8&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+### `~/activity`
 
-</div>
-<!--
-**moh-hit/moh-hit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=moh-hit&theme=react-dark&hide_border=true&area=true&custom_title=contribution+graph" alt="activity graph" />
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
+<sub><em>"software is frozen thought — keep it lukewarm."</em>&nbsp;·&nbsp;<img src="https://komarev.com/ghpvc/?username=moh-hit&style=flat-square&color=cba6f7&label=visitors" alt="visitors" /></sub>
